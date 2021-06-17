@@ -1,0 +1,11 @@
+Difference between <section>,<div>,<article> tag:
+<section>
+The <section> element represents a generic section of a document or application,grouping of content
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<div>
+The <div> element has no special meaning at all.
+It can be used with the class, lang, and title attributes to mark up semantics common to a group of consecutive elements
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<article>
+The <article> element represents a independent item section of content. It must have a <h1> tag for title.forum post, magazine article,newspaper article
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
